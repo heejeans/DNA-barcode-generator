@@ -1,5 +1,3 @@
-# Joy Son
-# HW4
 # DNA barcodes
 
 import random
